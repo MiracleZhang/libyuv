@@ -16,3 +16,6 @@ You can also browse the [docs directory][2] for more documentation.
 
 [1]: ./docs/getting_started.md
 [2]: ./docs/
+
+mirror from https://chromium.googlesource.com/libyuv/libyuv/
+git clone https://chromium.googlesource.com/libyuv/libyuv
